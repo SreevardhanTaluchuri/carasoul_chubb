@@ -1,0 +1,7 @@
+.appWrapper{
+    width: 98vw;
+    height: 97vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
